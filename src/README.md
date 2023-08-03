@@ -13,10 +13,10 @@ projects:
     desc: 项目详细描述
     link: https://你的项目链接
 
-  - icon: link
-    name: 链接名称
-    desc: 链接详细描述
-    link: https://链接地址
+  - name: VuePress Theme Hope
+    desc: 一个功能强大的 VuePress 主题✨
+    link: https://theme-hope.vuejs.press/zh/
+    icon: https://theme-hope.vuejs.press/logo.svg
 
   - icon: book
     name: 书籍名称
@@ -37,6 +37,4 @@ projects:
     name: 自定义项目
     desc: 自定义详细介绍
     link: https://你的自定义链接
-
-footer: 自定义你的页脚文字
 ---

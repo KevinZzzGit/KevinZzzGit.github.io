@@ -13,11 +13,13 @@ export default hopeTheme({
     // url: "https://mister-hope.com",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  // iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  iconAssets: "//at.alicdn.com/t/font_2410206_vuzkjonf4s9.css",
+
+  repo: "KevinZzzGit/KevinZzzGit.github.io",
 
   docsDir: "src",
 
@@ -66,7 +68,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebarConfig,
 
-      footer: "默认页脚",
+      footer: "",
 
       displayFooter: true,
 

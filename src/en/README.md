@@ -13,10 +13,10 @@ projects:
     desc: project detailed description
     link: https://your.project.link
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+  - name: VuePress Theme Hope
+    desc: A VuePress theme with tons of features✨
+    link: https://theme-hope.vuejs.press/
+    icon: https://theme-hope.vuejs.press/logo.svg
 
   - icon: book
     name: book name
@@ -37,6 +37,4 @@ projects:
     name: custom item
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
-
-footer: customize your footer text
 ---

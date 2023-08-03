@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   // "/zh/demo/",
   {
     text: "代码笔记",
-    icon: "book",
+    icon: "code",
     prefix: "/code-note/",
     children: [
       {
@@ -13,8 +13,8 @@ export const zhNavbar = navbar([
         icon: "pen-to-square",
         
         children: [
-          { text: "Vue", icon: "pen-to-square", link: "vue/" },
-          { text: "React", icon: "pen-to-square", link: "react" }
+          { text: "Vue", icon: "vue", link: "vue/" },
+          { text: "React", icon: "react", link: "react" }
         ],
       },
       {
@@ -23,17 +23,17 @@ export const zhNavbar = navbar([
         children: [
           {
             text: "Node",
-            icon: "pen-to-square",
+            icon: "nodeJS",
             link: "node",
           },
           {
             text: "Go",
-            icon: "pen-to-square",
+            icon: "Go",
             link: "go",
           },
           {
             text: "Python",
-            icon: "pen-to-square",
+            icon: "Python",
             link: "python",
           },
         ],
@@ -44,17 +44,17 @@ export const zhNavbar = navbar([
         children: [
           {
             text: "Flutter",
-            icon: "pen-to-square",
+            icon: "flutter",
             link: "flutter",
           },
           {
             text: "UniApp",
-            icon: "pen-to-square",
+            icon: "uniapp",
             link: "uniapp",
           },
           {
             text: "Electron",
-            icon: "pen-to-square",
+            icon: "electron",
             link: "electron",
           }
         ],
@@ -65,12 +65,12 @@ export const zhNavbar = navbar([
         children: [
           {
             text: "Ngnix",
-            icon: "pen-to-square",
+            icon: "ngnix",
             link: "ngnix",
           },
           {
             text: "Docker",
-            icon: "pen-to-square",
+            icon: "docker",
             link: "docker",
           }
         ],
