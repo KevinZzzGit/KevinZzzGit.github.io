@@ -61,7 +61,7 @@ export default hopeTheme({
   },
 
   locales: {
-     "/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
@@ -101,7 +101,7 @@ export default hopeTheme({
       metaLocales: {
         editLink: "Edit this page on GitHub",
       },
-    }
+    },
   },
 
   encrypt: {
@@ -112,7 +112,10 @@ export default hopeTheme({
   },
 
   plugins: {
-    blog: true,
+    
+    blog: {
+      excerptLength: 0,
+    },
 
     // comment: {
     //   // You should generate and use your own comment service
