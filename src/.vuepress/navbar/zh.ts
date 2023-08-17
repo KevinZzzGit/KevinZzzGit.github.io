@@ -14,7 +14,8 @@ export const zhNavbar = navbar([
         
         children: [
           { text: "Vue", icon: "vue", link: "vue/" },
-          { text: "React", icon: "react", link: "react" }
+          { text: "React", icon: "react", link: "react" },
+          { text: "TypeScript", icon: "typescript", link: "typescript/" },
         ],
       },
       {

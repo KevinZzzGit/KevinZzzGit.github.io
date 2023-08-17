@@ -6,7 +6,8 @@ export const codeNoteSideBarArr = arraySidebar([
         icon: "code",
         children: [
             "vue/",
-            "react/"
+            "react/",
+            "typescript/"
         ]
     }
 ])
